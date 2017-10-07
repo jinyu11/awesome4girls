@@ -66,7 +66,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Ladies that UX is a monthly meetup that creates a welcoming, transparent community of women who work in UX, who positively promote and teach each other.
 
-  - [XX-UX](http://www.xxux.org/)
+  - [XX+UX](http://www.xxux.org/)
 
     XX+UX aims to build a supportive community that fosters diversity, support, empowerment, and mentorship for women.
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
@@ -128,7 +128,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Girls Can Code](https://gcc.prologin.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" alt="French" width="30">
 
-     The Girls Can Code is an internship that takes place in 3 different cities and is the perfect opportunity to meet other girls motivated by the programming and to progress together, each at its own pace. The internship will include programming exercises and some lectures given by women working in computer science.
+     The Girls Can Code is an internship that takes place in 3 different cities and is the perfect opportunity to meet other girls motivated by the programming and to progress together, each at their own pace. The internship will include programming exercises and some lectures given by women working in computer science.
 
   - [Girl Develop It](https://www.girldevelopit.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
@@ -136,11 +136,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Girls In Tech](http://www.girlsintech.org/)
 
-    GIT is a global nonprofit focused on the engagement, education and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
+    Girls In Tech (GIT) is a global nonprofit focused on the engagement, education, and empowerment of girls and women who are passionate about technology. Our aim is to accelerate the growth of innovative women who are entering into the high-tech industry and building successful startups.
 
   - [Girls Who Code](http://girlswhocode.com/)
 
-    We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors.The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
+    We are a national nonprofit organization working to close the gender gap in the technology and engineering sectors. The Girls Who Code Summer Immersion Program is a 7-week intensive computer science course that embeds classrooms in technology companies and universities.
 
   - [Hackbright Academy](https://hackbrightacademy.com/)
 
@@ -190,7 +190,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [Lady Talks](http://ladytalks.technology/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
-    Women talking technology for themselves. Transgender people, transvestites and non-binary are also welcomed.
+    Women talking technology for themselves. Transgender people, transvestites, and non-binary are also welcomed.
 
   - [Lesbians Who Tech](http://lesbianswhotech.org//)
 
@@ -249,7 +249,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [She++](http://www.sheplusplus.org/)
 
-     It is a social enterprise that empowers women to make their mark on the technology industry. We believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
+     We is a social enterprise that empowers women to make their mark on the technology industry. We believe that when women are equally represented in technology development, we accelerate innovation for those who need it most.
 
 ## Other Initiatives
 
